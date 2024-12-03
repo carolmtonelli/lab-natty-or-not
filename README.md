@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA e Sustentabilidade: Como o uso da Tecnologia Pode ser um poderoso aliado para combater o aquecimento global e mitigar as mudanças climáticas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá! Eu sou a Carolina Tonelli e estou aqui para te inspirar! Este E-Book nos mostra como é possível pensar em um mundo sustentável etecnológico ao mesmo tempo! Tecnologias revolucionárias como a IA podem ser poderosos aliados para a construção de um mundo mais sustentável e justo. O diferencial humano é a escolha do uso que fazemos das tecnologias que "desbloqueamos".
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa [ChatGPT](https://chatgpt.com/) para roteirização; 
+- IA Generativa [Leonardo AI](https://app.leonardo.ai/) para criar as imagnes da arte visual do e-book; 
+- IA Generativa [Gamma.app](https://gamma.app/) fazer a diagramação do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para gerar o conteúdo sobre IAs e Sustentabilidade, estruturar o conteúdo e desenvolver o tema. O "Leonardo AI" foi usado para gerar imagens exclusivas para o e-book. Para concluir, a montagem final foi feita no Gamma.app, por ser uma ferramenta AI para diagramação de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Resultado é um E-book inspirador que mostra quão próximos podemos estar de solucionar problemas antigos, progressivos e aparentemente irreversíveis com o uso de novas tecnologias potencializadas pela AI. 
+- [E-BOOK](https://gamma.app/docs/E-Book-IA-e-Sustentabilidade-Como-o-uso-da-Tecnologia-Pode-ser-um-j0xtzfkkwpyg3as)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Na era da informação, os conteúdos relacionados aos mais diversos temas são extremamente acessíveis e vastos. A IA executa um trabalho excelente na captação, direcinamento e resumo desses conteúdos, exigindo apenas pequenas correções e nos oferecendo a possibilidade de direcinar nossas energias para a construção de um planeta mais sustentável e justo.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
